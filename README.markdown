@@ -1,6 +1,8 @@
 CWAC MMCursor: Ch-Ch-Ch-Ch-Ch-Ch-Ch-Changes
 ===========================================
 
+**THIS PROJECT IS DISCONTINUED &mdash; USE AT YOUR OWN RISK**
+
 `MatrixCursor`, as provided by Android, is nice, but you
 cannot modify its contents. That is annoying at times.
 
@@ -36,8 +38,5 @@ file.
 
 Questions
 ---------
-If you have questions regarding the use of this code, please
-join and ask them on the [cw-android Google Group][gg]. Be sure to
-indicate which CWAC module you have questions about.
+**THIS PROJECT IS UNSUPPORTED**
 
-[gg]: http://groups.google.com/group/cw-android
